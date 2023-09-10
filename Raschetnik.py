@@ -24,3 +24,4 @@ print("Время", time.time() - start_t)
 
 
 izmeneniya na vita_2
+1
