@@ -21,3 +21,6 @@ print("Время", time.time() - start_t)
 \\for commit test
 \\for commit test1
 >>>>>>> vita_1
+
+
+izmeneniya na vita_2
